@@ -1,0 +1,17 @@
+# IDE #
+.idea/*
+__pycache__/
+
+
+# Compiled source #
+__init__.py
+*.pyc
+
+
+# Sensitive data #
+carrefourtest/settings.py
+
+
+# OS generated files #
+.DS_Store
+
